@@ -1,5 +1,5 @@
 # SnapIt_MERN_App
-SnapIT is a socail media app that helps user to post their Back Packing Solo trip Memories
+SnapIT is a socail media app that helps user to post their Snaps with Extra Details that can be liked and viewed by all the users
 
 
 ![](client/src/images/Screenshot.png)
